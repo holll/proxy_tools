@@ -1,7 +1,7 @@
 # 内容: 🎥 国外媒体 规则集
 # 备注: 本列表为国外媒体域名，其他移步至https://github.com/mphin/ProxyTools
-# 更新: 2024年09月27日05:54:07
-# 数量: 378条
+# 更新: 2025年01月10日22:46:19
+# 数量: 381条
 
 DOMAIN-SUFFIX,hytto.com
 DOMAIN-SUFFIX,lovense-api.com
@@ -105,12 +105,17 @@ DOMAIN-SUFFIX,airav.io
 # > njav.tv
 DOMAIN-SUFFIX,njav.tv
 # > MISSAV
+DOMAIN-SUFFIX,fivetiu.com
 DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,missav.ws
 
 # Emby
 # > Misty
 DOMAIN-SUFFIX,misty.cx
 
+# Jellyfin
+# > 探花TV
+DOMAIN-SUFFIX,tanhuatv.site
 
 # ------------------------------------------------
 # 以下规则来源为ACL4SSR，仅删除部分重复

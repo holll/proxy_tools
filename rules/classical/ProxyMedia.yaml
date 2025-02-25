@@ -172,6 +172,7 @@ payload:
   - DOMAIN-SUFFIX,encoretvb.com
   - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,ext-twitch.tv
+  - DOMAIN-SUFFIX,fivetiu.com
   - DOMAIN-SUFFIX,flixcdn.com
   - DOMAIN-SUFFIX,flzbcdn.xyz
   - DOMAIN-SUFFIX,fox.com
@@ -246,6 +247,7 @@ payload:
   - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,megaxh.com
   - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,missav.ws
   - DOMAIN-SUFFIX,misty.cx
   - DOMAIN-SUFFIX,mobile-collector.newrelic.com
   - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
@@ -307,6 +309,7 @@ payload:
   - DOMAIN-SUFFIX,strpst.com
   - DOMAIN-SUFFIX,t.anexo.link
   - DOMAIN-SUFFIX,t66y.com
+  - DOMAIN-SUFFIX,tanhuatv.site
   - DOMAIN-SUFFIX,theporndude.com
   - DOMAIN-SUFFIX,thumb-v-lv.xhpingcdn.com
   - DOMAIN-SUFFIX,tiaokan.blog
